@@ -1,0 +1,5 @@
+.env
+.idea/
+.trails/
+__pycache__/
+.venv/
